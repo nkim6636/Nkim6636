@@ -1,4 +1,4 @@
-# ![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=300&section=header&text=Namho%20Kim&fontSize=90)
+# ![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=200&section=header&text=Namho%20Kim&fontSize=100)
 
  
 
